@@ -12,4 +12,4 @@ def translate(phrase):
 
 print(translate(input("Enter a phrase: ")))
 
-#zmiany dla sprawdzenia githuba
+#zmiany dla sprawdzenia githubaa
