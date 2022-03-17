@@ -11,5 +11,3 @@ def translate(phrase):
     return translation
 
 print(translate(input("Enter a phrase: ")))
-
-22
