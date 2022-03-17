@@ -5,9 +5,9 @@ number_grid = [
     [0]
 ]
 
-#print(number_grid[0][0])
-#print(number_grid[1:3:1])
-#print(number_grid[::-1])
+print(number_grid[0][0])
+print(number_grid[1:3:1])
+print(number_grid[::-1])
 
 
 for row in number_grid:
