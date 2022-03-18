@@ -1,6 +1,6 @@
 
-employee_file = open("employees.txt", "r")
-for employee in employee_file.readlines():
-    print(employee)
+employee_file = open("index.html", "a")
+
+employee_file.write("<p>This is HTML</p>")
 
 employee_file.close()
