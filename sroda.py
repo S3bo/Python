@@ -193,3 +193,11 @@
 #
 # Suma to: 55
 
+
+suma=0
+n = int(input("Podaj liczbę: "))
+
+for i in range(n+1):
+    suma +=  i
+print("\n")
+print("Suma to: ",suma)
