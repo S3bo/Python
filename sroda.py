@@ -179,8 +179,17 @@
 #   print(nl)
 #   print(';'.join(nl))
 #
+#
 
-i = 0
+#
+# Ćwiczenie: Oblicz sumę wszystkich liczb od 1 do podanej liczby
+# Napisz program akceptujący liczbę od użytkownika i obliczający
+# sumę wszystkich liczb od 1 do podanej liczby
+# Na przykład, jeśli użytkownik wpisał 10,
+# wynik powinien wynosić 55 (1+2+3+4+5+6+7+8+9+10)
+# Oczekiwany wynik:
+#
+# Wpisz numer 10
+#
+# Suma to: 55
 
-while i  10:
-    print(i)
