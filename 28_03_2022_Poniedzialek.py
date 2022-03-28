@@ -41,8 +41,11 @@
 # from math import sin
 # print(sin(1))
 
-import fruit
-# from fruit import lemon
+# import fruit
+# # from fruit import lemon
+#
+# fruit.lemon(5)
+# # lemon(5)
 
-fruit.lemon(5)
-# lemon(5)
+import flask
+print(dir(flask))
