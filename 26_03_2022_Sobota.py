@@ -157,12 +157,48 @@
 #
 # print(rek_fibbonaci_numbers(40))
 
-import plik.txt
-print(plik.txt)
+# import plik.txt
+# print(plik.txt)
 
+# ZADANIE NAJMNIEJSZA LICZBA Z LISTY
+#
+# def smallest_num_in_list(list):
+#     min = list[0]
+#     for a in list[1:]:
+#         if a < min:
+#             min = a
+#     return min
+#
+# print(smallest_num_in_list([1,2,-8,0]))
 
+# ---------------------------------------------------------------------
+# import turtle
+#
+# t = turtle.Turtle()
+# t.speed(-1)
+# t.setheading(90)
+# t.penup()
+# t.goto(0, -200)
+# t.pendown()
+#
+#
+# def gałąź(t, len):
+#     if len == 0: return
+#     nt = t.clone()
+#     nt.forward(50)
+#     nt.left(20)
+#     gałąź(nt, len - 1)
+#     nt.right(40)
+#     gałąź(nt, len - 1)
+#
+#
+# gałąź(t, 7)
+# window = turtle.Screen()
+# window.exitonclick()
+#
+# --------------------------------------------------------------------
 
-
+plik = open("plik2.txt", "w")
 
 
 
