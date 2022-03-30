@@ -1,2 +1,2 @@
 def lemon(1):
-    print('Lemoniada nr', l)
+    print("Lemoniada nr", 1)

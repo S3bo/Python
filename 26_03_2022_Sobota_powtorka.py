@@ -82,7 +82,7 @@
 # print("dzien dobry")
 #
 
-#import fruit
-from fruit import lemon
-#print(fruit.lemon(5))
-lemon(5)
+import fruit
+#from fruit import lemon
+fruit.lemon(5)
+#lemon(5)
