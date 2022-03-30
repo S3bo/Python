@@ -44,8 +44,8 @@
 # import fruit
 # # from fruit import lemon
 #
-# fruit.lemon(5)
-# # lemon(5)
-
-import flask
-print(dir(flask))
+fruit.lemon(5)
+lemon(5)
+#
+# import flask
+# print(dir(flask))
